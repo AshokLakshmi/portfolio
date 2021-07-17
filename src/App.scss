@@ -1,0 +1,22 @@
+//font-family: 'Fuggles', cursive;
+//font-family: 'Poppins', sans-serif;
+
+@import './components/ContactPage/contact';
+@import './components/Footer/footer';
+@import './components/Header/header';
+@import './components/HomePage/home';
+@import './components/Education/education.scss';
+@import './components//Project/project';
+@import './components//Resume//resume';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+   
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+
+    
+}
