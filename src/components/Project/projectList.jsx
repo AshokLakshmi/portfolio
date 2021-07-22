@@ -26,7 +26,7 @@ const projectList = [
         demo: '',
         code: '',
         image: DummyImg,
-        details:"", 
+        details:"it's a global command line application using Node.js. It organizes all your System files from from a folder into different section  so that you need not to do it manually.", 
         
     },
     {
